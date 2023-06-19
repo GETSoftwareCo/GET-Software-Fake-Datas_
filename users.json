@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "test123"
+    },
+    {
+      "id": 3,
+      "username": "alexander_brown",
+      "email": "alexander.brown@example.com",
+      "password": "pass1234"
+    },
+    {
+      "id": 4,
+      "username": "emma_wilson",
+      "email": "emma.wilson@example.com",
+      "password": "abc123"
+    },
+    {
+      "id": 5,
+      "username": "william_johnson",
+      "email": "william.johnson@example.com",
+      "password": "qwerty123"
+    },
+    {
+      "id": 6,
+      "username": "sophia_miller",
+      "email": "sophia.miller@example.com",
+      "password": "pass123"
+    },
+    {
+      "id": 7,
+      "username": "david_smith",
+      "email": "david.smith@example.com",
+      "password": "password1234"
+    },
+    {
+      "id": 8,
+      "username": "olivia_jones",
+      "email": "olivia.jones@example.com",
+      "password": "test456"
+    },
+    {
+      "id": 9,
+      "username": "noah_thompson",
+      "email": "noah.thompson@example.com",
+      "password": "passpass"
+    },
+    {
+      "id": 10,
+      "username": "ava_anderson",
+      "email": "ava.anderson@example.com",
+      "password": "example123"
+    }
+  ]
+}

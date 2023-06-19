@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "position": "Manager",
+      "department": "Sales"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "position": "Developer",
+      "department": "IT"
+    },
+    {
+      "id": 3,
+      "name": "Alex Brown",
+      "position": "Accountant",
+      "department": "Finance"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Johnson",
+      "position": "Marketing Specialist",
+      "department": "Marketing"
+    },
+    {
+      "id": 5,
+      "name": "Michael Wilson",
+      "position": "Engineer",
+      "department": "Engineering"
+    },
+    {
+      "id": 6,
+      "name": "Emily Davis",
+      "position": "HR Manager",
+      "department": "Human Resources"
+    },
+    {
+      "id": 7,
+      "name": "David Thompson",
+      "position": "Product Manager",
+      "department": "Product Management"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Anderson",
+      "position": "Graphic Designer",
+      "department": "Design"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Martinez",
+      "position": "Quality Assurance",
+      "department": "QA"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Rodriguez",
+      "position": "Customer Support",
+      "department": "Support"
+    }
+  ]
+}

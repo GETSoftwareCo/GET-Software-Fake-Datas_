@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "price": 999,
+      "description": "The latest iPhone model with advanced features.",
+      "image_url": "https://example.com/images/iphone12.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "price": 899,
+      "description": "High-performance Android smartphone.",
+      "image_url": "https://example.com/images/galaxys21.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sony PlayStation 5",
+      "price": 499,
+      "description": "Next-generation gaming console.",
+      "image_url": "https://example.com/images/ps5.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro",
+      "price": 1499,
+      "description": "Powerful laptop for professional use.",
+      "image_url": "https://example.com/images/macbookpro.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Samsung QLED TV",
+      "price": 1299,
+      "description": "Immersive viewing experience with vibrant colors.",
+      "image_url": "https://example.com/images/samsungtv.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fitbit Versa 3",
+      "price": 199,
+      "description": "Smartwatch with health and fitness tracking features.",
+      "image_url": "https://example.com/images/fitbitversa3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "DJI Mavic Air 2",
+      "price": 799,
+      "description": "Compact drone with 4K camera and intelligent features.",
+      "image_url": "https://example.com/images/djimavicair2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Canon EOS 5D Mark IV",
+      "price": 2499,
+      "description": "Professional DSLR camera with high-resolution sensor.",
+      "image_url": "https://example.com/images/canoneos5d.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bose QuietComfort 35 II",
+      "price": 349,
+      "description": "Wireless noise-canceling headphones for immersive audio experience.",
+      "image_url": "https://example.com/images/boseqc35.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Nintendo Switch",
+      "price": 299,
+      "description": "Hybrid gaming console for handheld and TV play.",
+      "image_url": "https://example.com/images/nintendoswitch.jpg"
+    },
+    {
+      "id": 11,
+      "name": "LG UltraWide Monitor",
+      "price": 699,
+      "description": "Wide-screen monitor for enhanced productivity.",
+      "image_url": "https://example.com/images/lgmonitor.jpg"
+    },
+    {
+      "id": 12,
+      "name": "GoPro Hero 9",
+      "price": 449,
+      "description": "Action camera with 5K video recording and waterproof design.",
+      "image_url": "https://example.com/images/goprohero9.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Amazon Echo",
+      "price": 99,
+      "description": "Smart speaker with voice assistant capabilities.",
+      "image_url": "https://example.com/images/amazonecho.jpg"
+    },
+    {
+      "id": 14,
+      "name": "HP Pavilion Laptop",
+      "price": 799,
+      "description": "Affordable laptop with reliable performance.",
+      "image_url": "https://example.com/images/hppavilion.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Xbox Series X",
+      "price": 499,
+      "description": "Next-generation gaming console by Microsoft.",
+      "image_url": "https://example.com/images/xboxseriesx.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Samsung Galaxy Watch Active 2",
+      "price": 249,
+      "description": "Stylish smartwatch with fitness tracking features.",
+      "image_url": "https://example.com/images/galaxywatch.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Nikon D850",
+      "price": 2799,
+      "description": "Professional DSLR camera with high-resolution sensor and advanced features.",
+      "image_url": "https://example.com/images/nikond850.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Bose SoundLink Revolve",
+      "price": 199,
+      "description": "Portable Bluetooth speaker with 360-degree sound.",
+      "image_url": "https://example.com/images/bosesoundlink.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Sony WH-1000XM4",
+      "price": 349,
+      "description": "Premium noise-canceling headphones with exceptional sound quality.",
+      "image_url": "https://example.com/images/sonywh1000xm4.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Apple Watch Series 6",
+      "price": 399,
+      "description": "Advanced smartwatch with health monitoring features.",
+      "image_url": "https://example.com/images/applewatch.jpg"
+    }
+  ]
+}

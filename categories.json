@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Home Decor"
+    },
+    {
+      "id": 4,
+      "name": "Books"
+    },
+    {
+      "id": 5,
+      "name": "Beauty"
+    },
+    {
+      "id": 6,
+      "name": "Sports"
+    },
+    {
+      "id": 7,
+      "name": "Toys"
+    },
+    {
+      "id": 8,
+      "name": "Furniture"
+    },
+    {
+      "id": 9,
+      "name": "Jewelry"
+    },
+    {
+      "id": 10,
+      "name": "Kitchenware"
+    },
+    {
+      "id": 11,
+      "name": "Garden"
+    },
+    {
+      "id": 12,
+      "name": "Automotive"
+    }
+  ]
+}

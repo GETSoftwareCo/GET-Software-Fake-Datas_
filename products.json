@@ -139,6 +139,146 @@
       "price": 399,
       "description": "Advanced smartwatch with health monitoring features.",
       "image_url": "https://example.com/images/applewatch.jpg"
-    }
+    },
+    {
+    "id": 21,
+    "name": "Microsoft Surface Laptop 4",
+    "price": 1299,
+    "description": "Slim and powerful laptop for professional use.",
+    "image_url": "https://example.com/images/surfacelaptop4.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Sony Xperia 5 III",
+    "price": 899,
+    "description": "High-end Android smartphone with advanced camera features.",
+    "image_url": "https://example.com/images/xperia5iii.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Dell Ultrasharp 27 Monitor",
+    "price": 499,
+    "description": "High-resolution monitor for stunning visuals and color accuracy.",
+    "image_url": "https://example.com/images/dellultrasharp27.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Canon EOS R5",
+    "price": 3799,
+    "description": "Mirrorless camera with 8K video recording and advanced autofocus.",
+    "image_url": "https://example.com/images/canoneosr5.jpg"
+  },
+  {
+    "id": 25,
+    "name": "LG OLED C1 Series TV",
+    "price": 1999,
+    "description": "Immersive OLED TV with vibrant colors and deep blacks.",
+    "image_url": "https://example.com/images/lgc1tv.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Garmin Fenix 6X Pro",
+    "price": 699,
+    "description": "Multisport GPS smartwatch with rugged design.",
+    "image_url": "https://example.com/images/garminfenix6xpro.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Razer BlackWidow Elite Gaming Keyboard",
+    "price": 169,
+    "description": "Mechanical gaming keyboard with customizable RGB lighting.",
+    "image_url": "https://example.com/images/razerblackwidow.jpg"
+  },
+  {
+    "id": 28,
+    "name": "JBL Charge 4 Portable Speaker",
+    "price": 129,
+    "description": "Waterproof portable speaker with powerful sound.",
+    "image_url": "https://example.com/images/jblcharge4.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Samsung Odyssey G9 Gaming Monitor",
+    "price": 1699,
+    "description": "Ultra-wide gaming monitor for an immersive gaming experience.",
+    "image_url": "https://example.com/images/samsungodysseyg9.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Logitech MX Master 3 Mouse",
+    "price": 99,
+    "description": "Wireless mouse with advanced features for productivity.",
+    "image_url": "https://example.com/images/logitechmxmaster3.jpg"
+  },
+    {
+    "id": 31,
+    "name": "OnePlus 9 Pro",
+    "price": 899,
+    "description": "Flagship Android smartphone with Hasselblad camera technology.",
+    "image_url": "https://example.com/images/oneplus9pro.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Acer Predator Helios 300",
+    "price": 1299,
+    "description": "High-performance gaming laptop with NVIDIA GeForce RTX graphics.",
+    "image_url": "https://example.com/images/predatorhelios300.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Bose Sport Earbuds",
+    "price": 179,
+    "description": "Wireless earbuds designed for workouts with sweat and weather resistance.",
+    "image_url": "https://example.com/images/bosesportearbuds.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Huawei MateBook X Pro",
+    "price": 1499,
+    "description": "Slim and powerful ultrabook with a borderless display.",
+    "image_url": "https://example.com/images/matebookxpro.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Sony WH-CH710N Headphones",
+    "price": 129,
+    "description": "Wireless noise-canceling headphones for immersive music experience.",
+    "image_url": "https://example.com/images/sonywhch710n.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Xiaomi Mi Electric Scooter Pro 2",
+    "price": 499,
+    "description": "Electric scooter with a long-range battery and integrated display.",
+    "image_url": "https://example.com/images/mielectricscooterpro2.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Samsung Galaxy Tab S7+",
+    "price": 799,
+    "description": "Premium Android tablet with a stunning Super AMOLED display.",
+    "image_url": "https://example.com/images/galaxytabs7plus.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Anker PowerCore 26800 Portable Charger",
+    "price": 59,
+    "description": "High-capacity portable charger with multiple USB ports.",
+    "image_url": "https://example.com/images/ankerpowercore26800.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Garmin Forerunner 945",
+    "price": 599,
+    "description": "Advanced GPS smartwatch for running, cycling, and swimming.",
+    "image_url": "https://example.com/images/garminforerunner945.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Logitech G Pro X Mechanical Gaming Keyboard",
+    "price": 129,
+    "description": "Customizable mechanical gaming keyboard with swappable switches.",
+    "image_url": "https://example.com/images/logitechgprox.jpg"
+  }
   ]
 }
